@@ -1,0 +1,8 @@
+target/
+debug/
+
+# Generated files
+.rustc_info.json
+
+# AoC input files
+input.txt
