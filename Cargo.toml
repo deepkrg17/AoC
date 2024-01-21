@@ -4,6 +4,7 @@ members = [
     "aoc*",
     "utils",
 ]
+default-members = ["aoc2016"]
 
 [workspace.dependencies]
 md5 = "0.7.0"
