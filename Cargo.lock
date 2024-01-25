@@ -24,6 +24,9 @@ dependencies = [
 [[package]]
 name = "aoc2016"
 version = "0.1.0"
+dependencies = [
+ "md5",
+]
 
 [[package]]
 name = "itoa"
